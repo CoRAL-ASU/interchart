@@ -1,0 +1,1500 @@
+{
+    "projectile_motion_minor_air_resistance": [
+        "projectile_motion_minor_air_resistance_0.png",
+        "projectile_motion_minor_air_resistance_1.png"
+    ],
+    "projectile_motion_range_initial_velocity_launch_angle": [
+        "projectile_motion_range_initial_velocity_launch_angle_0.png",
+        "projectile_motion_range_initial_velocity_launch_angle_1.png"
+    ],
+    "projectile_motion_slight_wind_effect": [
+        "projectile_motion_slight_wind_effect_0.png",
+        "projectile_motion_slight_wind_effect_1.png"
+    ],
+    "projectile_motion_time_distance_initial_velocity": [
+        "projectile_motion_time_distance_initial_velocity_0.png",
+        "projectile_motion_time_distance_initial_velocity_1.png"
+    ],
+    "project_team_size_individual_contribution": [
+        "project_team_size_individual_contribution_0.png",
+        "project_team_size_individual_contribution_1.png"
+    ],
+    "real_estate_property_prices_location_amenities": [
+        "real_estate_property_prices_location_amenities_0.png",
+        "real_estate_property_prices_location_amenities_1.png",
+        "real_estate_property_prices_location_amenities_2.png",
+        "real_estate_property_prices_location_amenities_3.png"
+    ],
+    "refraction_index_angle_incidence_angle_refraction": [
+        "refraction_index_angle_incidence_angle_refraction_0.png",
+        "refraction_index_angle_incidence_angle_refraction_1.png"
+    ],
+    "restaurant_customer_satisfaction_price_range": [
+        "restaurant_customer_satisfaction_price_range_0.png",
+        "restaurant_customer_satisfaction_price_range_1.png"
+    ],
+    "retail_store_sales_customer_traffic": [
+        "retail_store_sales_customer_traffic_0.png",
+        "retail_store_sales_customer_traffic_1.png"
+    ],
+    "room_lighting_energy_consumption": [
+        "room_lighting_energy_consumption_0.png",
+        "room_lighting_energy_consumption_1.png"
+    ],
+    "room_size_heating_efficiency": [
+        "room_size_heating_efficiency_0.png",
+        "room_size_heating_efficiency_1.png"
+    ],
+    "room_temperature_heating_cost": [
+        "room_temperature_heating_cost_0.png",
+        "room_temperature_heating_cost_1.png"
+    ],
+    "sales_performance_lead_generation_conversion_rate_sales_training": [
+        "sales_performance_lead_generation_conversion_rate_sales_training_0.png",
+        "sales_performance_lead_generation_conversion_rate_sales_training_1.png",
+        "sales_performance_lead_generation_conversion_rate_sales_training_2.png",
+        "sales_performance_lead_generation_conversion_rate_sales_training_3.png"
+    ],
+    "school_student_performance_teacher_student_ratio": [
+        "school_student_performance_teacher_student_ratio_0.png",
+        "school_student_performance_teacher_student_ratio_1.png",
+        "school_student_performance_teacher_student_ratio_2.png"
+    ],
+    "screen_size_battery_life": [
+        "screen_size_battery_life_0.png",
+        "screen_size_battery_life_1.png"
+    ],
+    "simple_pendulum_period_length_gravity": [
+        "simple_pendulum_period_length_gravity_0.png",
+        "simple_pendulum_period_length_gravity_1.png"
+    ],
+    "social_media_engagement_content_quality_posting_frequency": [
+        "social_media_engagement_content_quality_posting_frequency_0.png",
+        "social_media_engagement_content_quality_posting_frequency_1.png",
+        "social_media_engagement_content_quality_posting_frequency_2.png"
+    ],
+    "social_media_platform_user_engagement_advertising_revenue": [
+        "social_media_platform_user_engagement_advertising_revenue_0.png",
+        "social_media_platform_user_engagement_advertising_revenue_1.png",
+        "social_media_platform_user_engagement_advertising_revenue_2.png",
+        "social_media_platform_user_engagement_advertising_revenue_3.png",
+        "social_media_platform_user_engagement_advertising_revenue_4.png"
+    ],
+    "software_complexity_bug_rate": [
+        "software_complexity_bug_rate_0.png",
+        "software_complexity_bug_rate_1.png"
+    ],
+    "software_downloads_user_ratings_marketing_spend": [
+        "software_downloads_user_ratings_marketing_spend_0.png",
+        "software_downloads_user_ratings_marketing_spend_1.png",
+        "software_downloads_user_ratings_marketing_spend_2.png"
+    ],
+    "software_quality_maintenance_costs": [
+        "software_quality_maintenance_costs_0.png",
+        "software_quality_maintenance_costs_1.png"
+    ],
+    "software_updates_security_vulnerabilities": [
+        "software_updates_security_vulnerabilities_0.png",
+        "software_updates_security_vulnerabilities_1.png",
+        "software_updates_security_vulnerabilities_2.png"
+    ],
+    "soil_compaction_plant_growth": [
+        "soil_compaction_plant_growth_0.png",
+        "soil_compaction_plant_growth_1.png",
+        "soil_compaction_plant_growth_2.png"
+    ],
+    "soil_compaction_water_infiltration": [
+        "soil_compaction_water_infiltration_0.png",
+        "soil_compaction_water_infiltration_1.png"
+    ],
+    "soil_moisture_water_evaporation": [
+        "soil_moisture_water_evaporation_0.png",
+        "soil_moisture_water_evaporation_1.png"
+    ],
+    "soil_nutrient_levels_fertilizer_application": [
+        "soil_nutrient_levels_fertilizer_application_0.png",
+        "soil_nutrient_levels_fertilizer_application_1.png",
+        "soil_nutrient_levels_fertilizer_application_2.png",
+        "soil_nutrient_levels_fertilizer_application_3.png"
+    ],
+    "speed_distance_time": [
+        "speed_distance_time_0.png",
+        "speed_distance_time_1.png",
+        "speed_distance_time_2.png"
+    ],
+    "state_average_income_healthcare_access": [
+        "state_average_income_healthcare_access_0.png",
+        "state_average_income_healthcare_access_1.png",
+        "state_average_income_healthcare_access_2.png"
+    ],
+    "state_climate_change_investment_growth": [
+        "state_climate_change_investment_growth_0.png",
+        "state_climate_change_investment_growth_1.png"
+    ],
+    "state_college_graduation_rate_income": [
+        "state_college_graduation_rate_income_0.png",
+        "state_college_graduation_rate_income_1.png"
+    ],
+    "state_energy_consumption_gdp_growth": [
+        "state_energy_consumption_gdp_growth_0.png",
+        "state_energy_consumption_gdp_growth_1.png"
+    ],
+    "state_food_security_investment_agriculture": [
+        "state_food_security_investment_agriculture_0.png",
+        "state_food_security_investment_agriculture_1.png",
+        "state_food_security_investment_agriculture_2.png"
+    ],
+    "state_healthcare_expenditure_life_expectancy": [
+        "state_healthcare_expenditure_life_expectancy_0.png",
+        "state_healthcare_expenditure_life_expectancy_1.png"
+    ],
+    "state_investment_in_infrastructure_gdp_growth": [
+        "state_investment_in_infrastructure_gdp_growth_0.png",
+        "state_investment_in_infrastructure_gdp_growth_1.png"
+    ],
+    "state_public_health_investment_happiness_index": [
+        "state_public_health_investment_happiness_index_0.png",
+        "state_public_health_investment_happiness_index_1.png"
+    ],
+    "state_tax_investment_in_education_growth": [
+        "state_tax_investment_in_education_growth_0.png",
+        "state_tax_investment_in_education_growth_1.png",
+        "state_tax_investment_in_education_growth_2.png"
+    ],
+    "state_tax_rate_business_growth": [
+        "state_tax_rate_business_growth_0.png",
+        "state_tax_rate_business_growth_1.png"
+    ],
+    "state_unemployment_rate_crime_rate": [
+        "state_unemployment_rate_crime_rate_0.png",
+        "state_unemployment_rate_crime_rate_1.png"
+    ],
+    "student_graduation_rates_faculty_quality_student_support_services": [
+        "student_graduation_rates_faculty_quality_student_support_services_0.png",
+        "student_graduation_rates_faculty_quality_student_support_services_1.png",
+        "student_graduation_rates_faculty_quality_student_support_services_2.png"
+    ],
+    "student_performance_class_size_teacher_experience": [
+        "student_performance_class_size_teacher_experience_0.png",
+        "student_performance_class_size_teacher_experience_1.png",
+        "student_performance_class_size_teacher_experience_2.png"
+    ],
+    "student_test_scores_study_time_parental_education": [
+        "student_test_scores_study_time_parental_education_0.png",
+        "student_test_scores_study_time_parental_education_1.png",
+        "student_test_scores_study_time_parental_education_2.png"
+    ],
+    "task_automation_completion_time": [
+        "task_automation_completion_time_0.png",
+        "task_automation_completion_time_1.png"
+    ],
+    "task_complexity_completion_time": [
+        "task_complexity_completion_time_0.png",
+        "task_complexity_completion_time_1.png"
+    ],
+    "torque_force_lever_arm_angle": [
+        "torque_force_lever_arm_angle_0.png",
+        "torque_force_lever_arm_angle_1.png",
+        "torque_force_lever_arm_angle_2.png",
+        "torque_force_lever_arm_angle_3.png"
+    ],
+    "torque_minor_angle_variations": [
+        "torque_minor_angle_variations_0.png",
+        "torque_minor_angle_variations_1.png"
+    ],
+    "traffic_congestion_public_transportation_usage_road_infrastructure": [
+        "traffic_congestion_public_transportation_usage_road_infrastructure_0.png",
+        "traffic_congestion_public_transportation_usage_road_infrastructure_1.png",
+        "traffic_congestion_public_transportation_usage_road_infrastructure_2.png"
+    ],
+    "traffic_light_duration_traffic_flow": [
+        "traffic_light_duration_traffic_flow_0.png",
+        "traffic_light_duration_traffic_flow_1.png",
+        "traffic_light_duration_traffic_flow_2.png"
+    ],
+    "traffic_volume_air_pollution": [
+        "traffic_volume_air_pollution_0.png",
+        "traffic_volume_air_pollution_1.png"
+    ],
+    "traffic_volume_travel_speed": [
+        "traffic_volume_travel_speed_0.png",
+        "traffic_volume_travel_speed_1.png"
+    ],
+    "tree_age_growth_rate": [
+        "tree_age_growth_rate_0.png",
+        "tree_age_growth_rate_1.png"
+    ],
+    "tree_density_sunlight_penetration": [
+        "tree_density_sunlight_penetration_0.png",
+        "tree_density_sunlight_penetration_1.png"
+    ],
+    "tree_density_wildlife_diversity": [
+        "tree_density_wildlife_diversity_0.png",
+        "tree_density_wildlife_diversity_1.png",
+        "tree_density_wildlife_diversity_2.png"
+    ],
+    "university_ranking_acceptance_rate_research_funding": [
+        "university_ranking_acceptance_rate_research_funding_0.png",
+        "university_ranking_acceptance_rate_research_funding_1.png",
+        "university_ranking_acceptance_rate_research_funding_2.png"
+    ],
+    "vehicle_fuel_efficiency_fuel_cost": [
+        "vehicle_fuel_efficiency_fuel_cost_0.png",
+        "vehicle_fuel_efficiency_fuel_cost_1.png"
+    ],
+    "vehicle_speed_travel_time": [
+        "vehicle_speed_travel_time_0.png",
+        "vehicle_speed_travel_time_1.png"
+    ],
+    "vehicle_weight_fuel_efficiency": [
+        "vehicle_weight_fuel_efficiency_0.png",
+        "vehicle_weight_fuel_efficiency_1.png"
+    ],
+    "video_game_sales_player_reviews_esports_popularity": [
+        "video_game_sales_player_reviews_esports_popularity_0.png",
+        "video_game_sales_player_reviews_esports_popularity_1.png",
+        "video_game_sales_player_reviews_esports_popularity_2.png"
+    ],
+    "water_flow_rate_filling_time": [
+        "water_flow_rate_filling_time_0.png",
+        "water_flow_rate_filling_time_1.png"
+    ],
+    "water_salinity_marine_life_diversity": [
+        "water_salinity_marine_life_diversity_0.png",
+        "water_salinity_marine_life_diversity_1.png"
+    ],
+    "water_temperature_dissolved_oxygen": [
+        "water_temperature_dissolved_oxygen_0.png",
+        "water_temperature_dissolved_oxygen_1.png"
+    ],
+    "water_treatment_level_waterborne_illness": [
+        "water_treatment_level_waterborne_illness_0.png",
+        "water_treatment_level_waterborne_illness_1.png"
+    ],
+    "water_turbidity_light_penetration": [
+        "water_turbidity_light_penetration_0.png",
+        "water_turbidity_light_penetration_1.png"
+    ],
+    "wave_speed_tension_linear_density": [
+        "wave_speed_tension_linear_density_0.png",
+        "wave_speed_tension_linear_density_1.png"
+    ],
+    "website_conversion_rate_user_experience_design_website_speed": [
+        "website_conversion_rate_user_experience_design_website_speed_0.png",
+        "website_conversion_rate_user_experience_design_website_speed_1.png",
+        "website_conversion_rate_user_experience_design_website_speed_2.png"
+    ],
+    "website_loading_time_conversion_rate": [
+        "website_loading_time_conversion_rate_0.png",
+        "website_loading_time_conversion_rate_1.png"
+    ],
+    "website_traffic_conversion_rate_bounce_rate": [
+        "website_traffic_conversion_rate_bounce_rate_0.png",
+        "website_traffic_conversion_rate_bounce_rate_1.png",
+        "website_traffic_conversion_rate_bounce_rate_2.png"
+    ],
+    "website_traffic_server_load": [
+        "website_traffic_server_load_0.png",
+        "website_traffic_server_load_1.png",
+        "website_traffic_server_load_2.png"
+    ],
+    "weight_minor_gravity_variations": [
+        "weight_minor_gravity_variations_0.png",
+        "weight_minor_gravity_variations_1.png"
+    ],
+    "work_done_slight_angle_variations": [
+        "work_done_slight_angle_variations_0.png",
+        "work_done_slight_angle_variations_1.png",
+        "work_done_slight_angle_variations_2.png"
+    ],
+    "work_force_distance_angle": [
+        "work_force_distance_angle_0.png",
+        "work_force_distance_angle_1.png",
+        "work_force_distance_angle_2.png",
+        "work_force_distance_angle_3.png"
+    ],
+    "year_affordable_housing_investment_population_growth": [
+        "year_affordable_housing_investment_population_growth_0.png",
+        "year_affordable_housing_investment_population_growth_1.png"
+    ],
+    "year_air_pollution_health_expenditure_lifespan": [
+        "year_air_pollution_health_expenditure_lifespan_0.png",
+        "year_air_pollution_health_expenditure_lifespan_1.png",
+        "year_air_pollution_health_expenditure_lifespan_2.png"
+    ],
+    "year_air_quality_index_health_issues": [
+        "year_air_quality_index_health_issues_0.png",
+        "year_air_quality_index_health_issues_1.png",
+        "year_air_quality_index_health_issues_2.png"
+    ],
+    "year_air_quality_policy_implementation_effects": [
+        "year_air_quality_policy_implementation_effects_0.png",
+        "year_air_quality_policy_implementation_effects_1.png",
+        "year_air_quality_policy_implementation_effects_2.png"
+    ],
+    "year_automobile_accidents_insurance_claims": [
+        "year_automobile_accidents_insurance_claims_0.png",
+        "year_automobile_accidents_insurance_claims_1.png"
+    ],
+    "year_automobile_sales_gdp_growth_pollution_level": [
+        "year_automobile_sales_gdp_growth_pollution_level_0.png",
+        "year_automobile_sales_gdp_growth_pollution_level_1.png",
+        "year_automobile_sales_gdp_growth_pollution_level_2.png"
+    ],
+    "year_bike_sharing_usage_traffic_accidents": [
+        "year_bike_sharing_usage_traffic_accidents_0.png",
+        "year_bike_sharing_usage_traffic_accidents_1.png"
+    ],
+    "year_biodiversity_index_conservation_investment": [
+        "year_biodiversity_index_conservation_investment_0.png",
+        "year_biodiversity_index_conservation_investment_1.png"
+    ],
+    "year_broadband_access_digital_divide_index": [
+        "year_broadband_access_digital_divide_index_0.png",
+        "year_broadband_access_digital_divide_index_1.png"
+    ],
+    "year_circular_economy_investment_waste_reduction": [
+        "year_circular_economy_investment_waste_reduction_0.png",
+        "year_circular_economy_investment_waste_reduction_1.png"
+    ],
+    "year_city_population_growth_housing_prices": [
+        "year_city_population_growth_housing_prices_0.png",
+        "year_city_population_growth_housing_prices_1.png"
+    ],
+    "year_clean_energy_investment_global_warming": [
+        "year_clean_energy_investment_global_warming_0.png",
+        "year_clean_energy_investment_global_warming_1.png"
+    ],
+    "year_clean_energy_usage_pollution_reduction": [
+        "year_clean_energy_usage_pollution_reduction_0.png",
+        "year_clean_energy_usage_pollution_reduction_1.png"
+    ],
+    "year_clean_water_access_disease_rate": [
+        "year_clean_water_access_disease_rate_0.png",
+        "year_clean_water_access_disease_rate_1.png"
+    ],
+    "year_climate_change_awareness_effects": [
+        "year_climate_change_awareness_effects_0.png",
+        "year_climate_change_awareness_effects_1.png",
+        "year_climate_change_awareness_effects_2.png",
+        "year_climate_change_awareness_effects_3.png"
+    ],
+    "year_climate_change_investment_temperature_change": [
+        "year_climate_change_investment_temperature_change_0.png",
+        "year_climate_change_investment_temperature_change_1.png"
+    ],
+    "year_climate_change_policy_public_awareness": [
+        "year_climate_change_policy_public_awareness_0.png",
+        "year_climate_change_policy_public_awareness_1.png"
+    ],
+    "year_co2_emissions_temperature_sea_level": [
+        "year_co2_emissions_temperature_sea_level_0.png",
+        "year_co2_emissions_temperature_sea_level_1.png",
+        "year_co2_emissions_temperature_sea_level_2.png"
+    ],
+    "year_cyber_security_investment_data_breach": [
+        "year_cyber_security_investment_data_breach_0.png",
+        "year_cyber_security_investment_data_breach_1.png"
+    ],
+    "year_digital_technology_adoption_productivity_growth": [
+        "year_digital_technology_adoption_productivity_growth_0.png",
+        "year_digital_technology_adoption_productivity_growth_1.png"
+    ],
+    "year_education_expenditure_gdp_growth_literacy_rate": [
+        "year_education_expenditure_gdp_growth_literacy_rate_0.png",
+        "year_education_expenditure_gdp_growth_literacy_rate_1.png",
+        "year_education_expenditure_gdp_growth_literacy_rate_2.png"
+    ],
+    "year_electricity_consumption_gdp_growth_population": [
+        "year_electricity_consumption_gdp_growth_population_0.png",
+        "year_electricity_consumption_gdp_growth_population_1.png",
+        "year_electricity_consumption_gdp_growth_population_2.png"
+    ],
+    "year_electricity_consumption_population_growth": [
+        "year_electricity_consumption_population_growth_0.png",
+        "year_electricity_consumption_population_growth_1.png"
+    ],
+    "year_energy_consumption_gdp_growth_quality_of_life": [
+        "year_energy_consumption_gdp_growth_quality_of_life_0.png",
+        "year_energy_consumption_gdp_growth_quality_of_life_1.png",
+        "year_energy_consumption_gdp_growth_quality_of_life_2.png"
+    ],
+    "year_energy_consumption_renewable_energy_sources": [
+        "year_energy_consumption_renewable_energy_sources_0.png",
+        "year_energy_consumption_renewable_energy_sources_1.png"
+    ],
+    "year_energy_efficiency_building_regulations": [
+        "year_energy_efficiency_building_regulations_0.png",
+        "year_energy_efficiency_building_regulations_1.png"
+    ],
+    "year_energy_efficiency_investment_carbon_emissions": [
+        "year_energy_efficiency_investment_carbon_emissions_0.png",
+        "year_energy_efficiency_investment_carbon_emissions_1.png"
+    ],
+    "year_food_prices_unemployment_healthcare_expenditure": [
+        "year_food_prices_unemployment_healthcare_expenditure_0.png",
+        "year_food_prices_unemployment_healthcare_expenditure_1.png",
+        "year_food_prices_unemployment_healthcare_expenditure_2.png"
+    ],
+    "year_food_price_index_inflation_rate": [
+        "year_food_price_index_inflation_rate_0.png",
+        "year_food_price_index_inflation_rate_1.png"
+    ],
+    "year_food_security_index_malnutrition_rate": [
+        "year_food_security_index_malnutrition_rate_0.png",
+        "year_food_security_index_malnutrition_rate_1.png"
+    ],
+    "year_food_waste_management_efficiency": [
+        "year_food_waste_management_efficiency_0.png",
+        "year_food_waste_management_efficiency_1.png",
+        "year_food_waste_management_efficiency_2.png"
+    ],
+    "year_forest_area_carbon_footprint": [
+        "year_forest_area_carbon_footprint_0.png",
+        "year_forest_area_carbon_footprint_1.png"
+    ],
+    "year_forest_area_loss_climate_change_investment": [
+        "year_forest_area_loss_climate_change_investment_0.png",
+        "year_forest_area_loss_climate_change_investment_1.png"
+    ],
+    "year_fuel_prices_transportation_usage": [
+        "year_fuel_prices_transportation_usage_0.png",
+        "year_fuel_prices_transportation_usage_1.png"
+    ],
+    "year_funding_in_philanthropy_community_engagement": [
+        "year_funding_in_philanthropy_community_engagement_0.png",
+        "year_funding_in_philanthropy_community_engagement_1.png",
+        "year_funding_in_philanthropy_community_engagement_2.png"
+    ],
+    "year_funding_in_renewable_energy_economic_growth": [
+        "year_funding_in_renewable_energy_economic_growth_0.png",
+        "year_funding_in_renewable_energy_economic_growth_1.png"
+    ],
+    "year_gender_equality_index_women_participation": [
+        "year_gender_equality_index_women_participation_0.png",
+        "year_gender_equality_index_women_participation_1.png"
+    ],
+    "year_globalization_index_trade_volume_economic_growth": [
+        "year_globalization_index_trade_volume_economic_growth_0.png",
+        "year_globalization_index_trade_volume_economic_growth_1.png",
+        "year_globalization_index_trade_volume_economic_growth_2.png"
+    ],
+    "year_global_health_initiatives_outcomes": [
+        "year_global_health_initiatives_outcomes_0.png",
+        "year_global_health_initiatives_outcomes_1.png",
+        "year_global_health_initiatives_outcomes_2.png"
+    ],
+    "year_global_trade_volume_currency_fluctuation": [
+        "year_global_trade_volume_currency_fluctuation_0.png",
+        "year_global_trade_volume_currency_fluctuation_1.png"
+    ],
+    "year_global_warming_index_renewable_energy_adoption": [
+        "year_global_warming_index_renewable_energy_adoption_0.png",
+        "year_global_warming_index_renewable_energy_adoption_1.png"
+    ],
+    "year_gov_spending_on_infrastructure_economic_growth": [
+        "year_gov_spending_on_infrastructure_economic_growth_0.png",
+        "year_gov_spending_on_infrastructure_economic_growth_1.png"
+    ],
+    "year_green_space_investment_public_health": [
+        "year_green_space_investment_public_health_0.png",
+        "year_green_space_investment_public_health_1.png",
+        "year_green_space_investment_public_health_2.png"
+    ],
+    "year_gross_domestic_product_technology_investment": [
+        "year_gross_domestic_product_technology_investment_0.png",
+        "year_gross_domestic_product_technology_investment_1.png"
+    ],
+    "year_healthcare_expenditure_life_expectancy": [
+        "year_healthcare_expenditure_life_expectancy_0.png",
+        "year_healthcare_expenditure_life_expectancy_1.png"
+    ],
+    "year_high_school_graduation_rate_college_enrollment": [
+        "year_high_school_graduation_rate_college_enrollment_0.png",
+        "year_high_school_graduation_rate_college_enrollment_1.png"
+    ],
+    "year_insurance_expenditure_public_health_outcomes": [
+        "year_insurance_expenditure_public_health_outcomes_0.png",
+        "year_insurance_expenditure_public_health_outcomes_1.png",
+        "year_insurance_expenditure_public_health_outcomes_2.png"
+    ],
+    "year_international_trade_agreements_economic_growth": [
+        "year_international_trade_agreements_economic_growth_0.png",
+        "year_international_trade_agreements_economic_growth_1.png"
+    ],
+    "year_internet_access_education_outcomes": [
+        "year_internet_access_education_outcomes_0.png",
+        "year_internet_access_education_outcomes_1.png",
+        "year_internet_access_education_outcomes_2.png"
+    ],
+    "year_internet_access_rural_development_investment": [
+        "year_internet_access_rural_development_investment_0.png",
+        "year_internet_access_rural_development_investment_1.png"
+    ],
+    "year_internet_usage_gdp_growth_unemployment": [
+        "year_internet_usage_gdp_growth_unemployment_0.png",
+        "year_internet_usage_gdp_growth_unemployment_1.png",
+        "year_internet_usage_gdp_growth_unemployment_2.png"
+    ],
+    "year_internet_usage_time_spent_online": [
+        "year_internet_usage_time_spent_online_0.png",
+        "year_internet_usage_time_spent_online_1.png"
+    ],
+    "year_investment_in_infrastructure_economic_growth_index": [
+        "year_investment_in_infrastructure_economic_growth_index_0.png",
+        "year_investment_in_infrastructure_economic_growth_index_1.png"
+    ],
+    "year_investment_in_renewable_energy_electricity_prices": [
+        "year_investment_in_renewable_energy_electricity_prices_0.png",
+        "year_investment_in_renewable_energy_electricity_prices_1.png"
+    ],
+    "year_malnutrition_rate_investment_in_healthcare": [
+        "year_malnutrition_rate_investment_in_healthcare_0.png",
+        "year_malnutrition_rate_investment_in_healthcare_1.png"
+    ],
+    "year_median_income_unemployment_rate": [
+        "year_median_income_unemployment_rate_0.png",
+        "year_median_income_unemployment_rate_1.png"
+    ],
+    "year_media_spending_ad_revenue_viewership": [
+        "year_media_spending_ad_revenue_viewership_0.png",
+        "year_media_spending_ad_revenue_viewership_1.png",
+        "year_media_spending_ad_revenue_viewership_2.png"
+    ],
+    "year_mental_health_services_access": [
+        "year_mental_health_services_access_0.png",
+        "year_mental_health_services_access_1.png",
+        "year_mental_health_services_access_2.png",
+        "year_mental_health_services_access_3.png"
+    ],
+    "year_migration_rate_economic_growth_investment": [
+        "year_migration_rate_economic_growth_investment_0.png",
+        "year_migration_rate_economic_growth_investment_1.png",
+        "year_migration_rate_economic_growth_investment_2.png"
+    ],
+    "year_migration_rate_housing_prices": [
+        "year_migration_rate_housing_prices_0.png",
+        "year_migration_rate_housing_prices_1.png"
+    ],
+    "year_natural_disasters_recovery_efforts": [
+        "year_natural_disasters_recovery_efforts_0.png",
+        "year_natural_disasters_recovery_efforts_1.png",
+        "year_natural_disasters_recovery_efforts_2.png"
+    ],
+    "year_natural_disasters_response_investment": [
+        "year_natural_disasters_response_investment_0.png",
+        "year_natural_disasters_response_investment_1.png"
+    ],
+    "year_online_learning_enrollment_graduation_rate": [
+        "year_online_learning_enrollment_graduation_rate_0.png",
+        "year_online_learning_enrollment_graduation_rate_1.png"
+    ],
+    "year_political_stability_index_investment_rate": [
+        "year_political_stability_index_investment_rate_0.png",
+        "year_political_stability_index_investment_rate_1.png",
+        "year_political_stability_index_investment_rate_2.png"
+    ],
+    "year_population_growth_biodiversity_conservation": [
+        "year_population_growth_biodiversity_conservation_0.png",
+        "year_population_growth_biodiversity_conservation_1.png",
+        "year_population_growth_biodiversity_conservation_2.png"
+    ],
+    "year_population_income_health_expenditure": [
+        "year_population_income_health_expenditure_0.png",
+        "year_population_income_health_expenditure_1.png",
+        "year_population_income_health_expenditure_2.png"
+    ],
+    "year_public_health_expenditure_disease_prevalence": [
+        "year_public_health_expenditure_disease_prevalence_0.png",
+        "year_public_health_expenditure_disease_prevalence_1.png"
+    ],
+    "year_public_health_initiatives_vaccination_rate": [
+        "year_public_health_initiatives_vaccination_rate_0.png",
+        "year_public_health_initiatives_vaccination_rate_1.png"
+    ],
+    "year_public_transport_investment_usage": [
+        "year_public_transport_investment_usage_0.png",
+        "year_public_transport_investment_usage_1.png"
+    ],
+    "year_public_transport_usage_car_sales": [
+        "year_public_transport_usage_car_sales_0.png",
+        "year_public_transport_usage_car_sales_1.png"
+    ],
+    "year_renewable_energy_consumption_economic_growth": [
+        "year_renewable_energy_consumption_economic_growth_0.png",
+        "year_renewable_energy_consumption_economic_growth_1.png"
+    ],
+    "year_renewable_energy_usage_carbon_emissions": [
+        "year_renewable_energy_usage_carbon_emissions_0.png",
+        "year_renewable_energy_usage_carbon_emissions_1.png"
+    ],
+    "year_research_innovation_investment_economic_growth": [
+        "year_research_innovation_investment_economic_growth_0.png",
+        "year_research_innovation_investment_economic_growth_1.png"
+    ],
+    "year_rural_development_population_growth": [
+        "year_rural_development_population_growth_0.png",
+        "year_rural_development_population_growth_1.png"
+    ],
+    "year_rural_health_access_population_growth": [
+        "year_rural_health_access_population_growth_0.png",
+        "year_rural_health_access_population_growth_1.png",
+        "year_rural_health_access_population_growth_2.png"
+    ],
+    "year_rural_investment_population_migration": [
+        "year_rural_investment_population_migration_0.png",
+        "year_rural_investment_population_migration_1.png",
+        "year_rural_investment_population_migration_2.png"
+    ],
+    "year_rural_population_access_to_education": [
+        "year_rural_population_access_to_education_0.png",
+        "year_rural_population_access_to_education_1.png",
+        "year_rural_population_access_to_education_2.png"
+    ],
+    "year_seasonal_flu_cases_vaccination_rate": [
+        "year_seasonal_flu_cases_vaccination_rate_0.png",
+        "year_seasonal_flu_cases_vaccination_rate_1.png"
+    ],
+    "year_smartphone_penetration_digital_divide": [
+        "year_smartphone_penetration_digital_divide_0.png",
+        "year_smartphone_penetration_digital_divide_1.png",
+        "year_smartphone_penetration_digital_divide_2.png"
+    ],
+    "year_smart_city_initiatives_quality_of_life": [
+        "year_smart_city_initiatives_quality_of_life_0.png",
+        "year_smart_city_initiatives_quality_of_life_1.png",
+        "year_smart_city_initiatives_quality_of_life_2.png",
+        "year_smart_city_initiatives_quality_of_life_3.png",
+        "year_smart_city_initiatives_quality_of_life_4.png"
+    ],
+    "year_social_media_usage_online_shopping": [
+        "year_social_media_usage_online_shopping_0.png",
+        "year_social_media_usage_online_shopping_1.png"
+    ],
+    "year_social_media_usage_youth_involvement_mental_health": [
+        "year_social_media_usage_youth_involvement_mental_health_0.png",
+        "year_social_media_usage_youth_involvement_mental_health_1.png",
+        "year_social_media_usage_youth_involvement_mental_health_2.png"
+    ],
+    "year_sustainable_agriculture_practices_food_security": [
+        "year_sustainable_agriculture_practices_food_security_0.png",
+        "year_sustainable_agriculture_practices_food_security_1.png"
+    ],
+    "year_temperature_precipitation_crop_yield": [
+        "year_temperature_precipitation_crop_yield_0.png",
+        "year_temperature_precipitation_crop_yield_1.png",
+        "year_temperature_precipitation_crop_yield_2.png"
+    ],
+    "year_tourism_revenue_currency_exchange_rate": [
+        "year_tourism_revenue_currency_exchange_rate_0.png",
+        "year_tourism_revenue_currency_exchange_rate_1.png"
+    ],
+    "year_traffic_accidents_healthcare_expenditure": [
+        "year_traffic_accidents_healthcare_expenditure_0.png",
+        "year_traffic_accidents_healthcare_expenditure_1.png"
+    ],
+    "year_unemployment_rate_economic_growth": [
+        "year_unemployment_rate_economic_growth_0.png",
+        "year_unemployment_rate_economic_growth_1.png"
+    ],
+    "year_unemployment_rate_inflation_rate_wage_growth": [
+        "year_unemployment_rate_inflation_rate_wage_growth_0.png",
+        "year_unemployment_rate_inflation_rate_wage_growth_1.png",
+        "year_unemployment_rate_inflation_rate_wage_growth_2.png"
+    ],
+    "year_urbanization_population_density": [
+        "year_urbanization_population_density_0.png",
+        "year_urbanization_population_density_1.png"
+    ],
+    "year_urbanization_rate_food_security_investment": [
+        "year_urbanization_rate_food_security_investment_0.png",
+        "year_urbanization_rate_food_security_investment_1.png"
+    ],
+    "year_vehicle_sales_fuel_prices": [
+        "year_vehicle_sales_fuel_prices_0.png",
+        "year_vehicle_sales_fuel_prices_1.png"
+    ],
+    "year_waste_management_investment_environmental_outcomes": [
+        "year_waste_management_investment_environmental_outcomes_0.png",
+        "year_waste_management_investment_environmental_outcomes_1.png",
+        "year_waste_management_investment_environmental_outcomes_2.png",
+        "year_waste_management_investment_environmental_outcomes_3.png"
+    ],
+    "year_waste_management_investment_recycling_rate": [
+        "year_waste_management_investment_recycling_rate_0.png",
+        "year_waste_management_investment_recycling_rate_1.png"
+    ],
+    "year_water_conservation_community_engagement": [
+        "year_water_conservation_community_engagement_0.png",
+        "year_water_conservation_community_engagement_1.png",
+        "year_water_conservation_community_engagement_2.png"
+    ],
+    "year_water_quality_investment_in_infrastructure": [
+        "year_water_quality_investment_in_infrastructure_0.png",
+        "year_water_quality_investment_in_infrastructure_1.png"
+    ],
+    "year_water_usage_agricultural_output": [
+        "year_water_usage_agricultural_output_0.png",
+        "year_water_usage_agricultural_output_1.png"
+    ],
+    "year_wildlife_population_conservation_efforts": [
+        "year_wildlife_population_conservation_efforts_0.png",
+        "year_wildlife_population_conservation_efforts_1.png"
+    ],
+    "year_youth_engagement_in_governance_voting_rate": [
+        "year_youth_engagement_in_governance_voting_rate_0.png",
+        "year_youth_engagement_in_governance_voting_rate_1.png"
+    ],
+    "year_youth_unemployment_mental_health_issues": [
+        "year_youth_unemployment_mental_health_issues_0.png",
+        "year_youth_unemployment_mental_health_issues_1.png",
+        "year_youth_unemployment_mental_health_issues_2.png"
+    ],
+    "acceleration_change_in_velocity_time": [
+        "acceleration_change_in_velocity_time_0.png",
+        "acceleration_change_in_velocity_time_1.png",
+        "acceleration_change_in_velocity_time_2.png"
+    ],
+    "acceleration_due_to_gravity_minor_planet_variations": [
+        "acceleration_due_to_gravity_minor_planet_variations_0.png",
+        "acceleration_due_to_gravity_minor_planet_variations_1.png",
+        "acceleration_due_to_gravity_minor_planet_variations_2.png"
+    ],
+    "airline_customer_satisfaction_on_time_arrival_baggage_handling": [
+        "airline_customer_satisfaction_on_time_arrival_baggage_handling_0.png",
+        "airline_customer_satisfaction_on_time_arrival_baggage_handling_1.png",
+        "airline_customer_satisfaction_on_time_arrival_baggage_handling_2.png"
+    ],
+    "air_humidity_evaporation_rate": [
+        "air_humidity_evaporation_rate_0.png",
+        "air_humidity_evaporation_rate_1.png"
+    ],
+    "archimedes_principle_buoyant_force_fluid_density_displaced_volume": [
+        "archimedes_principle_buoyant_force_fluid_density_displaced_volume_0.png",
+        "archimedes_principle_buoyant_force_fluid_density_displaced_volume_1.png",
+        "archimedes_principle_buoyant_force_fluid_density_displaced_volume_2.png"
+    ],
+    "archimedes_principle_minor_volume_differences": [
+        "archimedes_principle_minor_volume_differences_0.png",
+        "archimedes_principle_minor_volume_differences_1.png"
+    ],
+    "book_sales_author_popularity": [
+        "book_sales_author_popularity_0.png",
+        "book_sales_author_popularity_1.png"
+    ],
+    "brand_awareness_marketing_spend_social_media_engagement": [
+        "brand_awareness_marketing_spend_social_media_engagement_0.png",
+        "brand_awareness_marketing_spend_social_media_engagement_1.png",
+        "brand_awareness_marketing_spend_social_media_engagement_2.png"
+    ],
+    "brand_loyalty_customer_experience_brand_reputation": [
+        "brand_loyalty_customer_experience_brand_reputation_0.png",
+        "brand_loyalty_customer_experience_brand_reputation_1.png",
+        "brand_loyalty_customer_experience_brand_reputation_2.png"
+    ],
+    "buoyancy_object_density_fluid_density_volume": [
+        "buoyancy_object_density_fluid_density_volume_0.png",
+        "buoyancy_object_density_fluid_density_volume_1.png",
+        "buoyancy_object_density_fluid_density_volume_2.png",
+        "buoyancy_object_density_fluid_density_volume_3.png"
+    ],
+    "car_sales_fuel_efficiency_price": [
+        "car_sales_fuel_efficiency_price_0.png",
+        "car_sales_fuel_efficiency_price_1.png",
+        "car_sales_fuel_efficiency_price_2.png"
+    ],
+    "centripetal_acceleration_velocity_radius": [
+        "centripetal_acceleration_velocity_radius_0.png",
+        "centripetal_acceleration_velocity_radius_1.png",
+        "centripetal_acceleration_velocity_radius_2.png"
+    ],
+    "centripetal_force_mass_velocity_radius": [
+        "centripetal_force_mass_velocity_radius_0.png",
+        "centripetal_force_mass_velocity_radius_1.png",
+        "centripetal_force_mass_velocity_radius_2.png",
+        "centripetal_force_mass_velocity_radius_3.png"
+    ],
+    "city_air_quality_traffic_congestion_green_space": [
+        "city_air_quality_traffic_congestion_green_space_0.png",
+        "city_air_quality_traffic_congestion_green_space_1.png",
+        "city_air_quality_traffic_congestion_green_space_2.png"
+    ],
+    "city_crime_rate_income": [
+        "city_crime_rate_income_0.png",
+        "city_crime_rate_income_1.png"
+    ],
+    "city_education_level_income": [
+        "city_education_level_income_0.png",
+        "city_education_level_income_1.png"
+    ],
+    "city_employment_rate_property_prices": [
+        "city_employment_rate_property_prices_0.png",
+        "city_employment_rate_property_prices_1.png"
+    ],
+    "city_environmental_regulations_economic_growth": [
+        "city_environmental_regulations_economic_growth_0.png",
+        "city_environmental_regulations_economic_growth_1.png"
+    ],
+    "city_green_space_happiness_index": [
+        "city_green_space_happiness_index_0.png",
+        "city_green_space_happiness_index_1.png"
+    ],
+    "city_income_healthcare_access": [
+        "city_income_healthcare_access_0.png",
+        "city_income_healthcare_access_1.png",
+        "city_income_healthcare_access_2.png"
+    ],
+    "city_investment_in_education_happiness_index": [
+        "city_investment_in_education_happiness_index_0.png",
+        "city_investment_in_education_happiness_index_1.png"
+    ],
+    "city_investment_in_healthcare_happiness_index": [
+        "city_investment_in_healthcare_happiness_index_0.png",
+        "city_investment_in_healthcare_happiness_index_1.png"
+    ],
+    "city_population_density_crime_rate": [
+        "city_population_density_crime_rate_0.png",
+        "city_population_density_crime_rate_1.png",
+        "city_population_density_crime_rate_2.png",
+        "city_population_density_crime_rate_3.png"
+    ],
+    "city_population_housing_costs": [
+        "city_population_housing_costs_0.png",
+        "city_population_housing_costs_1.png",
+        "city_population_housing_costs_2.png"
+    ],
+    "city_population_pollution": [
+        "city_population_pollution_0.png",
+        "city_population_pollution_1.png"
+    ],
+    "city_public_transportation_population": [
+        "city_public_transportation_population_0.png",
+        "city_public_transportation_population_1.png"
+    ],
+    "city_public_transportation_usage_income": [
+        "city_public_transportation_usage_income_0.png",
+        "city_public_transportation_usage_income_1.png"
+    ],
+    "city_traffic_pollution_health": [
+        "city_traffic_pollution_health_0.png",
+        "city_traffic_pollution_health_1.png",
+        "city_traffic_pollution_health_2.png"
+    ],
+    "city_traffic_volume_air_quality": [
+        "city_traffic_volume_air_quality_0.png",
+        "city_traffic_volume_air_quality_1.png"
+    ],
+    "coffee_strength_amount_of_water": [
+        "coffee_strength_amount_of_water_0.png",
+        "coffee_strength_amount_of_water_1.png"
+    ],
+    "company_advertising_budget_sales": [
+        "company_advertising_budget_sales_0.png",
+        "company_advertising_budget_sales_1.png"
+    ],
+    "company_customer_service_rating_sales": [
+        "company_customer_service_rating_sales_0.png",
+        "company_customer_service_rating_sales_1.png"
+    ],
+    "company_diversity_inclusion_productivity": [
+        "company_diversity_inclusion_productivity_0.png",
+        "company_diversity_inclusion_productivity_1.png",
+        "company_diversity_inclusion_productivity_2.png"
+    ],
+    "company_diversity_innovation_profitability": [
+        "company_diversity_innovation_profitability_0.png",
+        "company_diversity_innovation_profitability_1.png",
+        "company_diversity_innovation_profitability_2.png"
+    ],
+    "company_employee_benefits_productivity": [
+        "company_employee_benefits_productivity_0.png",
+        "company_employee_benefits_productivity_1.png"
+    ],
+    "company_employee_engagement_productivity": [
+        "company_employee_engagement_productivity_0.png",
+        "company_employee_engagement_productivity_1.png"
+    ],
+    "company_employee_satisfaction_productivity": [
+        "company_employee_satisfaction_productivity_0.png",
+        "company_employee_satisfaction_productivity_1.png"
+    ],
+    "company_innovation_revenue_growth": [
+        "company_innovation_revenue_growth_0.png",
+        "company_innovation_revenue_growth_1.png"
+    ],
+    "company_profit_employee_satisfaction_turnover_rate": [
+        "company_profit_employee_satisfaction_turnover_rate_0.png",
+        "company_profit_employee_satisfaction_turnover_rate_1.png",
+        "company_profit_employee_satisfaction_turnover_rate_2.png"
+    ],
+    "company_research_budget_product_quality": [
+        "company_research_budget_product_quality_0.png",
+        "company_research_budget_product_quality_1.png"
+    ],
+    "company_research_development_innovation": [
+        "company_research_development_innovation_0.png",
+        "company_research_development_innovation_1.png",
+        "company_research_development_innovation_2.png"
+    ],
+    "company_sustainability_initiatives_reputation": [
+        "company_sustainability_initiatives_reputation_0.png",
+        "company_sustainability_initiatives_reputation_1.png"
+    ],
+    "company_technology_investment_productivity": [
+        "company_technology_investment_productivity_0.png",
+        "company_technology_investment_productivity_1.png"
+    ],
+    "company_training_expenditure_employee_performance": [
+        "company_training_expenditure_employee_performance_0.png",
+        "company_training_expenditure_employee_performance_1.png",
+        "company_training_expenditure_employee_performance_2.png"
+    ],
+    "company_workplace_culture_employee_retention": [
+        "company_workplace_culture_employee_retention_0.png",
+        "company_workplace_culture_employee_retention_1.png"
+    ],
+    "country_access_to_clean_water_health_index": [
+        "country_access_to_clean_water_health_index_0.png",
+        "country_access_to_clean_water_health_index_1.png"
+    ],
+    "country_education_expenditure_economy": [
+        "country_education_expenditure_economy_0.png",
+        "country_education_expenditure_economy_1.png",
+        "country_education_expenditure_economy_2.png"
+    ],
+    "country_fuel_prices_economic_growth": [
+        "country_fuel_prices_economic_growth_0.png",
+        "country_fuel_prices_economic_growth_1.png"
+    ],
+    "country_gdp_per_capita_life_expectancy": [
+        "country_gdp_per_capita_life_expectancy_0.png",
+        "country_gdp_per_capita_life_expectancy_1.png"
+    ],
+    "country_internet_access_economic_growth": [
+        "country_internet_access_economic_growth_0.png",
+        "country_internet_access_economic_growth_1.png"
+    ],
+    "country_internet_penetration_gdp": [
+        "country_internet_penetration_gdp_0.png",
+        "country_internet_penetration_gdp_1.png",
+        "country_internet_penetration_gdp_2.png"
+    ],
+    "country_investment_infrastructure_gdp": [
+        "country_investment_infrastructure_gdp_0.png",
+        "country_investment_infrastructure_gdp_1.png"
+    ],
+    "country_investment_in_education_economic_growth": [
+        "country_investment_in_education_economic_growth_0.png",
+        "country_investment_in_education_economic_growth_1.png"
+    ],
+    "country_migration_policy_economic_growth": [
+        "country_migration_policy_economic_growth_0.png",
+        "country_migration_policy_economic_growth_1.png"
+    ],
+    "country_migration_rate_economic_growth": [
+        "country_migration_rate_economic_growth_0.png",
+        "country_migration_rate_economic_growth_1.png"
+    ],
+    "country_natural_resources_economic_growth": [
+        "country_natural_resources_economic_growth_0.png",
+        "country_natural_resources_economic_growth_1.png"
+    ],
+    "country_population_growth_gdp": [
+        "country_population_growth_gdp_0.png",
+        "country_population_growth_gdp_1.png"
+    ],
+    "country_population_growth_investment_infrastructure": [
+        "country_population_growth_investment_infrastructure_0.png",
+        "country_population_growth_investment_infrastructure_1.png"
+    ],
+    "country_solar_energy_usage_gdp": [
+        "country_solar_energy_usage_gdp_0.png",
+        "country_solar_energy_usage_gdp_1.png"
+    ],
+    "country_women_empowerment_economic_growth": [
+        "country_women_empowerment_economic_growth_0.png",
+        "country_women_empowerment_economic_growth_1.png"
+    ],
+    "crime_rates_police_presence_community_programs": [
+        "crime_rates_police_presence_community_programs_0.png",
+        "crime_rates_police_presence_community_programs_1.png",
+        "crime_rates_police_presence_community_programs_2.png"
+    ],
+    "customer_churn_rate_customer_satisfaction_service_quality": [
+        "customer_churn_rate_customer_satisfaction_service_quality_0.png",
+        "customer_churn_rate_customer_satisfaction_service_quality_1.png",
+        "customer_churn_rate_customer_satisfaction_service_quality_2.png"
+    ],
+    "customer_loyalty_customer_satisfaction_purchase_frequency": [
+        "customer_loyalty_customer_satisfaction_purchase_frequency_0.png",
+        "customer_loyalty_customer_satisfaction_purchase_frequency_1.png",
+        "customer_loyalty_customer_satisfaction_purchase_frequency_2.png"
+    ],
+    "customer_retention_rate_customer_service_product_quality": [
+        "customer_retention_rate_customer_service_product_quality_0.png",
+        "customer_retention_rate_customer_service_product_quality_1.png",
+        "customer_retention_rate_customer_service_product_quality_2.png"
+    ],
+    "customer_satisfaction_price_product_features": [
+        "customer_satisfaction_price_product_features_0.png",
+        "customer_satisfaction_price_product_features_1.png",
+        "customer_satisfaction_price_product_features_2.png"
+    ],
+    "customer_satisfaction_product_quality_customer_service": [
+        "customer_satisfaction_product_quality_customer_service_0.png",
+        "customer_satisfaction_product_quality_customer_service_1.png",
+        "customer_satisfaction_product_quality_customer_service_2.png"
+    ],
+    "customer_service_quality_customer_churn": [
+        "customer_service_quality_customer_churn_0.png",
+        "customer_service_quality_customer_churn_1.png"
+    ],
+    "customer_service_wait_time_satisfaction": [
+        "customer_service_wait_time_satisfaction_0.png",
+        "customer_service_wait_time_satisfaction_1.png"
+    ],
+    "data_encryption_strength_security_risk": [
+        "data_encryption_strength_security_risk_0.png",
+        "data_encryption_strength_security_risk_1.png"
+    ],
+    "doppler_effect_minor_velocity_differences": [
+        "doppler_effect_minor_velocity_differences_0.png",
+        "doppler_effect_minor_velocity_differences_1.png",
+        "doppler_effect_minor_velocity_differences_2.png"
+    ],
+    "electrical_current_charge_time": [
+        "electrical_current_charge_time_0.png",
+        "electrical_current_charge_time_1.png"
+    ],
+    "electrical_current_minor_charge_fluctuations": [
+        "electrical_current_minor_charge_fluctuations_0.png",
+        "electrical_current_minor_charge_fluctuations_1.png"
+    ],
+    "electrical_power_minor_voltage_fluctuations": [
+        "electrical_power_minor_voltage_fluctuations_0.png",
+        "electrical_power_minor_voltage_fluctuations_1.png"
+    ],
+    "electrical_power_voltage_current": [
+        "electrical_power_voltage_current_0.png",
+        "electrical_power_voltage_current_1.png",
+        "electrical_power_voltage_current_2.png"
+    ],
+    "electrical_resistance_minor_length_differences": [
+        "electrical_resistance_minor_length_differences_0.png",
+        "electrical_resistance_minor_length_differences_1.png"
+    ],
+    "electrical_resistance_resistivity_length_area": [
+        "electrical_resistance_resistivity_length_area_0.png",
+        "electrical_resistance_resistivity_length_area_1.png",
+        "electrical_resistance_resistivity_length_area_2.png",
+        "electrical_resistance_resistivity_length_area_3.png"
+    ],
+    "electric_field_strength_charge_distance": [
+        "electric_field_strength_charge_distance_0.png",
+        "electric_field_strength_charge_distance_1.png"
+    ],
+    "employee_autonomy_micromanagement": [
+        "employee_autonomy_micromanagement_0.png",
+        "employee_autonomy_micromanagement_1.png"
+    ],
+    "employee_burnout_rate_support_programs": [
+        "employee_burnout_rate_support_programs_0.png",
+        "employee_burnout_rate_support_programs_1.png",
+        "employee_burnout_rate_support_programs_2.png"
+    ],
+    "employee_engagement_management_styles_company_culture": [
+        "employee_engagement_management_styles_company_culture_0.png",
+        "employee_engagement_management_styles_company_culture_1.png",
+        "employee_engagement_management_styles_company_culture_2.png"
+    ],
+    "employee_experience_error_rate": [
+        "employee_experience_error_rate_0.png",
+        "employee_experience_error_rate_1.png"
+    ],
+    "employee_experience_training_cost": [
+        "employee_experience_training_cost_0.png",
+        "employee_experience_training_cost_1.png"
+    ],
+    "employee_experience_training_time": [
+        "employee_experience_training_time_0.png",
+        "employee_experience_training_time_1.png"
+    ],
+    "employee_motivation_absenteeism_rate": [
+        "employee_motivation_absenteeism_rate_0.png",
+        "employee_motivation_absenteeism_rate_1.png"
+    ],
+    "employee_productivity_salary_job_satisfaction_work_life_balance": [
+        "employee_productivity_salary_job_satisfaction_work_life_balance_0.png",
+        "employee_productivity_salary_job_satisfaction_work_life_balance_1.png",
+        "employee_productivity_salary_job_satisfaction_work_life_balance_2.png",
+        "employee_productivity_salary_job_satisfaction_work_life_balance_3.png"
+    ],
+    "employee_salary_turnover_rate": [
+        "employee_salary_turnover_rate_0.png",
+        "employee_salary_turnover_rate_1.png"
+    ],
+    "employee_satisfaction_turnover_rate": [
+        "employee_satisfaction_turnover_rate_0.png",
+        "employee_satisfaction_turnover_rate_1.png"
+    ],
+    "employee_training_customer_satisfaction": [
+        "employee_training_customer_satisfaction_0.png",
+        "employee_training_customer_satisfaction_1.png"
+    ],
+    "employee_training_error_rate": [
+        "employee_training_error_rate_0.png",
+        "employee_training_error_rate_1.png",
+        "employee_training_error_rate_2.png"
+    ],
+    "employee_turnover_rate_salary_benefits_job_satisfaction": [
+        "employee_turnover_rate_salary_benefits_job_satisfaction_0.png",
+        "employee_turnover_rate_salary_benefits_job_satisfaction_1.png",
+        "employee_turnover_rate_salary_benefits_job_satisfaction_2.png",
+        "employee_turnover_rate_salary_benefits_job_satisfaction_3.png"
+    ],
+    "employee_workload_stress_level": [
+        "employee_workload_stress_level_0.png",
+        "employee_workload_stress_level_1.png",
+        "employee_workload_stress_level_2.png"
+    ],
+    "employee_work_life_balance_stress_level": [
+        "employee_work_life_balance_stress_level_0.png",
+        "employee_work_life_balance_stress_level_1.png",
+        "employee_work_life_balance_stress_level_2.png"
+    ],
+    "escape_velocity_planet_mass_radius": [
+        "escape_velocity_planet_mass_radius_0.png",
+        "escape_velocity_planet_mass_radius_1.png",
+        "escape_velocity_planet_mass_radius_2.png"
+    ],
+    "escape_velocity_subtle_planet_variations": [
+        "escape_velocity_subtle_planet_variations_0.png",
+        "escape_velocity_subtle_planet_variations_1.png",
+        "escape_velocity_subtle_planet_variations_2.png"
+    ],
+    "force_mass_acceleration": [
+        "force_mass_acceleration_0.png",
+        "force_mass_acceleration_1.png",
+        "force_mass_acceleration_2.png"
+    ],
+    "force_subtle_mass_variations": [
+        "force_subtle_mass_variations_0.png",
+        "force_subtle_mass_variations_1.png"
+    ],
+    "forest_density_biodiversity": [
+        "forest_density_biodiversity_0.png",
+        "forest_density_biodiversity_1.png",
+        "forest_density_biodiversity_2.png"
+    ],
+    "fuel_efficiency_fuel_consumption": [
+        "fuel_efficiency_fuel_consumption_0.png",
+        "fuel_efficiency_fuel_consumption_1.png"
+    ],
+    "game_sales_marketing_budget_average_player_rating": [
+        "game_sales_marketing_budget_average_player_rating_0.png",
+        "game_sales_marketing_budget_average_player_rating_1.png",
+        "game_sales_marketing_budget_average_player_rating_2.png"
+    ],
+    "gravitational_potential_energy_mass_height_gravity": [
+        "gravitational_potential_energy_mass_height_gravity_0.png",
+        "gravitational_potential_energy_mass_height_gravity_1.png",
+        "gravitational_potential_energy_mass_height_gravity_2.png",
+        "gravitational_potential_energy_mass_height_gravity_3.png"
+    ],
+    "gym_membership_sales_price_amenities_competitor_pricing": [
+        "gym_membership_sales_price_amenities_competitor_pricing_0.png",
+        "gym_membership_sales_price_amenities_competitor_pricing_1.png",
+        "gym_membership_sales_price_amenities_competitor_pricing_2.png",
+        "gym_membership_sales_price_amenities_competitor_pricing_3.png"
+    ],
+    "heat_transfer_temperature_difference_thermal_conductivity": [
+        "heat_transfer_temperature_difference_thermal_conductivity_0.png",
+        "heat_transfer_temperature_difference_thermal_conductivity_1.png"
+    ],
+    "hospital_patient_satisfaction_readmission_rate": [
+        "hospital_patient_satisfaction_readmission_rate_0.png",
+        "hospital_patient_satisfaction_readmission_rate_1.png"
+    ],
+    "hospital_readmission_rates_patient_age_length_of_stay": [
+        "hospital_readmission_rates_patient_age_length_of_stay_0.png",
+        "hospital_readmission_rates_patient_age_length_of_stay_1.png",
+        "hospital_readmission_rates_patient_age_length_of_stay_2.png"
+    ],
+    "hotel_bookings_price_customer_reviews_location": [
+        "hotel_bookings_price_customer_reviews_location_0.png",
+        "hotel_bookings_price_customer_reviews_location_1.png",
+        "hotel_bookings_price_customer_reviews_location_2.png",
+        "hotel_bookings_price_customer_reviews_location_3.png"
+    ],
+    "ideal_gas_law_pressure_volume_temperature_moles": [
+        "ideal_gas_law_pressure_volume_temperature_moles_0.png",
+        "ideal_gas_law_pressure_volume_temperature_moles_1.png",
+        "ideal_gas_law_pressure_volume_temperature_moles_2.png",
+        "ideal_gas_law_pressure_volume_temperature_moles_3.png"
+    ],
+    "ideal_gas_law_subtle_temperature_variations": [
+        "ideal_gas_law_subtle_temperature_variations_0.png",
+        "ideal_gas_law_subtle_temperature_variations_1.png"
+    ],
+    "image_resolution_file_size": [
+        "image_resolution_file_size_0.png",
+        "image_resolution_file_size_1.png",
+        "image_resolution_file_size_2.png"
+    ],
+    "interest_rate_investment_growth": [
+        "interest_rate_investment_growth_0.png",
+        "interest_rate_investment_growth_1.png"
+    ],
+    "interest_rate_loan_term": [
+        "interest_rate_loan_term_0.png",
+        "interest_rate_loan_term_1.png",
+        "interest_rate_loan_term_2.png",
+        "interest_rate_loan_term_3.png"
+    ],
+    "interest_rate_savings_growth": [
+        "interest_rate_savings_growth_0.png",
+        "interest_rate_savings_growth_1.png"
+    ],
+    "internet_speed_download_time": [
+        "internet_speed_download_time_0.png",
+        "internet_speed_download_time_1.png"
+    ],
+    "investment_portfolio_diversification_risk": [
+        "investment_portfolio_diversification_risk_0.png",
+        "investment_portfolio_diversification_risk_1.png",
+        "investment_portfolio_diversification_risk_2.png"
+    ],
+    "investment_portfolio_performance_risk_tolerance_investment_strategy": [
+        "investment_portfolio_performance_risk_tolerance_investment_strategy_0.png",
+        "investment_portfolio_performance_risk_tolerance_investment_strategy_1.png"
+    ],
+    "job_applications_salary_benefits_company_reputation": [
+        "job_applications_salary_benefits_company_reputation_0.png",
+        "job_applications_salary_benefits_company_reputation_1.png",
+        "job_applications_salary_benefits_company_reputation_2.png",
+        "job_applications_salary_benefits_company_reputation_3.png"
+    ],
+    "kinetic_energy_mass_velocity": [
+        "kinetic_energy_mass_velocity_0.png",
+        "kinetic_energy_mass_velocity_1.png",
+        "kinetic_energy_mass_velocity_2.png"
+    ],
+    "kinetic_energy_minor_velocity_differences": [
+        "kinetic_energy_minor_velocity_differences_0.png",
+        "kinetic_energy_minor_velocity_differences_1.png"
+    ],
+    "lens_focal_length_minor_object_distance_changes": [
+        "lens_focal_length_minor_object_distance_changes_0.png",
+        "lens_focal_length_minor_object_distance_changes_1.png"
+    ],
+    "lens_focal_length_object_distance_image_distance": [
+        "lens_focal_length_object_distance_image_distance_0.png",
+        "lens_focal_length_object_distance_image_distance_1.png"
+    ],
+    "magnetic_field_strength_current_distance": [
+        "magnetic_field_strength_current_distance_0.png",
+        "magnetic_field_strength_current_distance_1.png"
+    ],
+    "medication_concentration_effectiveness": [
+        "medication_concentration_effectiveness_0.png",
+        "medication_concentration_effectiveness_1.png",
+        "medication_concentration_effectiveness_2.png"
+    ],
+    "medication_dosage_frequency": [
+        "medication_dosage_frequency_0.png",
+        "medication_dosage_frequency_1.png"
+    ],
+    "medication_dosage_side_effects": [
+        "medication_dosage_side_effects_0.png",
+        "medication_dosage_side_effects_1.png"
+    ],
+    "meeting_duration_participant_engagement": [
+        "meeting_duration_participant_engagement_0.png",
+        "meeting_duration_participant_engagement_1.png"
+    ],
+    "momentum_minor_velocity_fluctuations": [
+        "momentum_minor_velocity_fluctuations_0.png",
+        "momentum_minor_velocity_fluctuations_1.png"
+    ],
+    "movie_box_office_revenue_critic_score_audience_score": [
+        "movie_box_office_revenue_critic_score_audience_score_0.png",
+        "movie_box_office_revenue_critic_score_audience_score_1.png",
+        "movie_box_office_revenue_critic_score_audience_score_2.png"
+    ],
+    "movie_box_office_revenue_marketing_budget": [
+        "movie_box_office_revenue_marketing_budget_0.png",
+        "movie_box_office_revenue_marketing_budget_1.png"
+    ],
+    "neighborhood_housing_prices_school_ratings_crime_rates": [
+        "neighborhood_housing_prices_school_ratings_crime_rates_0.png",
+        "neighborhood_housing_prices_school_ratings_crime_rates_1.png",
+        "neighborhood_housing_prices_school_ratings_crime_rates_2.png"
+    ],
+    "neighborhood_property_value_crime_rate": [
+        "neighborhood_property_value_crime_rate_0.png",
+        "neighborhood_property_value_crime_rate_1.png"
+    ],
+    "online_advertising_click_through_rate_cost_per_click_ad_relevance": [
+        "online_advertising_click_through_rate_cost_per_click_ad_relevance_0.png",
+        "online_advertising_click_through_rate_cost_per_click_ad_relevance_1.png",
+        "online_advertising_click_through_rate_cost_per_click_ad_relevance_2.png"
+    ],
+    "online_course_enrollment_price_instructor_rating": [
+        "online_course_enrollment_price_instructor_rating_0.png",
+        "online_course_enrollment_price_instructor_rating_1.png",
+        "online_course_enrollment_price_instructor_rating_2.png"
+    ],
+    "online_retailer_sales_website_traffic_conversion_rate": [
+        "online_retailer_sales_website_traffic_conversion_rate_0.png",
+        "online_retailer_sales_website_traffic_conversion_rate_1.png",
+        "online_retailer_sales_website_traffic_conversion_rate_2.png"
+    ],
+    "pendulum_period_length_gravity": [
+        "pendulum_period_length_gravity_0.png",
+        "pendulum_period_length_gravity_1.png"
+    ],
+    "population_density_commute_options": [
+        "population_density_commute_options_0.png",
+        "population_density_commute_options_1.png",
+        "population_density_commute_options_2.png"
+    ],
+    "population_density_commute_time": [
+        "population_density_commute_time_0.png",
+        "population_density_commute_time_1.png"
+    ],
+    "population_density_crime_rate": [
+        "population_density_crime_rate_0.png",
+        "population_density_crime_rate_1.png"
+    ],
+    "population_density_green_space": [
+        "population_density_green_space_0.png",
+        "population_density_green_space_1.png",
+        "population_density_green_space_2.png",
+        "population_density_green_space_3.png"
+    ],
+    "population_density_housing_availability": [
+        "population_density_housing_availability_0.png",
+        "population_density_housing_availability_1.png"
+    ],
+    "population_density_housing_cost": [
+        "population_density_housing_cost_0.png",
+        "population_density_housing_cost_1.png",
+        "population_density_housing_cost_2.png"
+    ],
+    "population_density_noise_level": [
+        "population_density_noise_level_0.png",
+        "population_density_noise_level_1.png"
+    ],
+    "population_density_privacy": [
+        "population_density_privacy_0.png",
+        "population_density_privacy_1.png"
+    ],
+    "population_density_traffic_congestion": [
+        "population_density_traffic_congestion_0.png",
+        "population_density_traffic_congestion_1.png"
+    ],
+    "population_growth_resource_availability": [
+        "population_growth_resource_availability_0.png",
+        "population_growth_resource_availability_1.png",
+        "population_growth_resource_availability_2.png",
+        "population_growth_resource_availability_3.png"
+    ],
+    "population_size_individual_impact": [
+        "population_size_individual_impact_0.png",
+        "population_size_individual_impact_1.png",
+        "population_size_individual_impact_2.png"
+    ],
+    "power_energy_time": [
+        "power_energy_time_0.png",
+        "power_energy_time_1.png"
+    ],
+    "power_work_time": [
+        "power_work_time_0.png",
+        "power_work_time_1.png"
+    ],
+    "pressure_depth_fluid_density_gravity": [
+        "pressure_depth_fluid_density_gravity_0.png",
+        "pressure_depth_fluid_density_gravity_1.png",
+        "pressure_depth_fluid_density_gravity_2.png"
+    ],
+    "pressure_force_area": [
+        "pressure_force_area_0.png",
+        "pressure_force_area_1.png",
+        "pressure_force_area_2.png"
+    ],
+    "pressure_subtle_force_variations": [
+        "pressure_subtle_force_variations_0.png",
+        "pressure_subtle_force_variations_1.png"
+    ],
+    "product_complexity_customer_support_calls": [
+        "product_complexity_customer_support_calls_0.png",
+        "product_complexity_customer_support_calls_1.png"
+    ],
+    "product_complexity_development_time": [
+        "product_complexity_development_time_0.png",
+        "product_complexity_development_time_1.png"
+    ],
+    "product_development_cycle_time_team_size_project_complexity": [
+        "product_development_cycle_time_team_size_project_complexity_0.png",
+        "product_development_cycle_time_team_size_project_complexity_1.png",
+        "product_development_cycle_time_team_size_project_complexity_2.png"
+    ],
+    "product_durability_repair_frequency": [
+        "product_durability_repair_frequency_0.png",
+        "product_durability_repair_frequency_1.png",
+        "product_durability_repair_frequency_2.png"
+    ],
+    "product_price_customer_satisfaction": [
+        "product_price_customer_satisfaction_0.png",
+        "product_price_customer_satisfaction_1.png"
+    ],
+    "product_price_demand": [
+        "product_price_demand_0.png",
+        "product_price_demand_1.png"
+    ],
+    "product_price_sales_volume": [
+        "product_price_sales_volume_0.png",
+        "product_price_sales_volume_1.png"
+    ],
+    "product_sales_advertising_spend_competitor_pricing": [
+        "product_sales_advertising_spend_competitor_pricing_0.png",
+        "product_sales_advertising_spend_competitor_pricing_1.png",
+        "product_sales_advertising_spend_competitor_pricing_2.png"
+    ],
+    "product_sales_marketing_campaign_effectiveness_competitor_activity": [
+        "product_sales_marketing_campaign_effectiveness_competitor_activity_0.png",
+        "product_sales_marketing_campaign_effectiveness_competitor_activity_1.png",
+        "product_sales_marketing_campaign_effectiveness_competitor_activity_2.png",
+        "product_sales_marketing_campaign_effectiveness_competitor_activity_3.png",
+        "product_sales_marketing_campaign_effectiveness_competitor_activity_4.png"
+    ],
+    "product_sales_price_customer_reviews": [
+        "product_sales_price_customer_reviews_0.png",
+        "product_sales_price_customer_reviews_1.png",
+        "product_sales_price_customer_reviews_2.png"
+    ],
+    "product_simplicity_user_error_rate": [
+        "product_simplicity_user_error_rate_0.png",
+        "product_simplicity_user_error_rate_1.png",
+        "product_simplicity_user_error_rate_2.png"
+    ],
+    "buoyancy_subtle_density_variations": [
+        "buoyancy_subtle_density_variations_0.png",
+        "buoyancy_subtle_density_variations_1.png",
+        "buoyancy_subtle_density_variations_2.png"
+    ],
+    "year_research_funding_patents_innovation": [
+        "year_research_funding_patents_innovation_0.png",
+        "year_research_funding_patents_innovation_1.png",
+        "year_research_funding_patents_innovation_2.png"
+    ],
+    "sunlight_exposure_vitamin_d_levels": [
+        "sunlight_exposure_vitamin_d_levels_0.png",
+        "sunlight_exposure_vitamin_d_levels_1.png"
+    ],
+    "stock_price_company_earnings_market_sentiment": [
+        "stock_price_company_earnings_market_sentiment_0.png",
+        "stock_price_company_earnings_market_sentiment_1.png",
+        "stock_price_company_earnings_market_sentiment_2.png"
+    ]
+}
