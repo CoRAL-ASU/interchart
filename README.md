@@ -39,10 +39,11 @@ This allows flexible evaluation of paraphrases, numeric ranges, and unit variati
 If you use **INTERCHART** or its code, please cite:
 
 ```
-@inproceedings{kaniyar2025interchart,
+@inproceedings{iyengar2025interchart,
   title={INTERCHART: Benchmarking Visual Reasoning Across Decomposed and Distributed Chart Information},
-  author={Kaniyar Narayana Iyengar, Anirudh Iyengar and Choudhury, Manan Roy and Siingh, Shikhhar and Sugeeth, Raghavendra and Gupta, Vivek},
-  booktitle={Findings of the Association for Computational Linguistics: EMNLP},
+  author={Iyengar, Anirudh Iyengar Kaniyar Narayana and Mukhopadhyay, Srija and Qidwai, Adnan and Singh, Shubhankar and Roth, Dan and Gupta, Vivek},
+  booktitle={Proceedings of the 14th International Joint Conference on Natural Language Processing and the 4th Conference of the Asia-Pacific Chapter of the Association for Computational Linguistics},
+  pages={2046--2067},
   year={2025}
 }
 ```
